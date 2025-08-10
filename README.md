@@ -159,7 +159,5 @@ This project is licensed under the MIT License. See LICENSE file for details.
 Thank you for checking out LucyBounty — together, let’s build a safer Ethiopia!
 
 
-If you want, I can also help create smaller READMEs for the frontend/backend folders or write a `CONTRIBUTING.md`. Let me know!
-
 
 
